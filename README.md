@@ -6,7 +6,7 @@ This is the library to render Glip Flavored Markdown.
 ## Formatting
 
 <table><tr><th>Markdown</th><th>Output</th></tr>
-<tr><td>`*italics*`</td><td>*italics*</td></tr>
+<tr><td><span style="font-family:courier"/>*italics*</span></td><td><em>italics</em></td></tr>
 </table>
 
 | `*italics*` | *italics* |
