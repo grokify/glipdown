@@ -5,11 +5,19 @@ This is the library to render Glip Flavored Markdown.
 
 ## Formatting
 
+<table><tr><th>Markdown</th><th>Output</th></tr>
+<tr><td>`*italics*`</td><td>*italics*</td></tr>
+</table>
+
+| `*italics*` | *italics* |
+| `*\*bold**` | **bold** |
+| `[a link](http://google.com)` | [a link](http://google.com) |
+
 | Markdown | Output |
 |----------|--------|
-| `\*italics\*` | *italics* |
-| `\*\*bold\*\*` | **bold** |
-| `\[a link\]\(http://google.com\)` | [a link](http://google.com) |
+| `*italics*` | *italics* |
+| `*\*bold**` | **bold** |
+| `[a link](http://google.com)` | [a link](http://google.com) |
 
 
 ```
