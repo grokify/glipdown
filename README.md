@@ -7,7 +7,10 @@ This is the library to render Glip Flavored Markdown.
 
 | Markdown | Output |
 |----------|--------|
-| \*italics\* | *italics* |
+| `\*italics\*` | *italics* |
+| `\*\*bold\*\*` | **bold** |
+| `\[a link\]\(http://google.com\)` | [a link](http://google.com) |
+
 
 ```
 *italics*	italics
