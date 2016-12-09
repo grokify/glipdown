@@ -5,7 +5,7 @@ This is the library to render Glip Flavored Markdown.
 
 ## Formatting
 
-``
+```
 *italics*	italics
 **bold**	bold
 [a link](http://google.com)	a link
